@@ -1,6 +1,3 @@
-let name = "Shatrughan Kumar";
-console.log(name);
-name = "Surya Prakash Gupta";
-console.log(name);
-name = "Keshari Devi";
-console.log(name);
+console.log(2<3);
+console.log(4<4);
+console.log(4<1);
